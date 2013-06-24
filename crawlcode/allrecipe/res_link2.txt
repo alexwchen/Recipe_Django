@@ -1,0 +1,413 @@
+<recipe>
+<title>greek-key-lime-pie</title>
+<idx>0</idx>
+<ingredient>
+                    5 egg yolks
+                    1 cup Dannon&#174; Oikos Greek yogurt, vanilla
+                    1 (14 ounce) can sweetened condensed low-fat milk
+                    1/4 cup freshly squeezed lime juice or key lime juice
+                    1 tablespoon lime zest
+                    1 (9 inch) prepared graham cracker crust
+                    Low-fat whipped cream for topping
+</ingredient>
+<directions>
+                    Preheat oven to 350 degrees.
+                    Blend or whisk together the egg yolks, Dannon&#174; Oikos Greek yogurt, condensed milk, lime juice and zest.
+                    Pour filling into graham cracker crust, and bake for 15 to 18 minutes until set.
+                    Cool in refrigerator for at least one hour before topping with whipped cream and a slice of lime.
+</directions>
+</recipe>
+<recipe>
+<title>million-dollar-chinese-cabbage-salad</title>
+<idx>1</idx>
+<PrepTime>
+	15 Min
+</PrepTime>
+<CookTime>
+	15 Min
+</CookTime>
+<ReadyIn>
+	40 Min
+</ReadyIn>
+<ingredient>
+                    1/2 cup vegetable oil
+                    1/2 cup white sugar
+                    1/4 cup wine vinegar
+                    1 tablespoon soy sauce
+                    &nbsp;
+                    2 (3 ounce) packages raman noodles (without flavor packets), lightly crushed
+                    1/2 cup slivered almonds
+                    1 cup sesame seeds
+                    1 head napa cabbage, chopped
+                    1 bunch green onions, chopped
+</ingredient>
+<directions>
+                    In a bowl, whisk together vegetable oil, sugar, wine vinegar, and soy sauce until the sugar has dissolved. Refrigerate the dressing while preparing the salad.
+                    Preheat oven to 350 degrees F (175 degrees C).
+                    Spread the broken ramen noodles, almonds, and sesame seeds onto a baking sheet.
+                    Bake the ramen noodle mixture until lightly browned, about 15 minutes, stirring often. Watch carefully to prevent burning. Allow mixture to cool.
+                    Just before serving, mix together the napa cabbage and green onions with toasted ramen mixture in a salad bowl until thoroughly combined; toss with the dressing.
+</directions>
+</recipe>
+<recipe>
+<title>zuccotto-cupcakes</title>
+<idx>2</idx>
+<PrepTime>
+	45 Min
+</PrepTime>
+<CookTime>
+	15 Min
+</CookTime>
+<ReadyIn>
+	3 Hrs 
+</ReadyIn>
+<ingredient>
+                    For Cupcakes:
+                    1 (18.25 ounce) package white cake mix with pudding
+                    1/3 cup vegetable oil
+                    3 egg whites
+                    1 1/4 cups water
+                    6 ounces bittersweet chocolate, chopped fine
+                    &nbsp;
+                    For Filling:
+                    1 cup cold heavy whipping cream
+                    2 tablespoons confectioners' sugar
+                    1/2 cup frozen unsweetened raspberries
+                    1/4 cup chocolate-coated toffee bits
+                    1/2 cup finely chopped toasted hazelnuts, skins removed
+                    &nbsp;
+                    For Ganache:
+                    1/2 cup heavy cream
+                    6 ounces semisweet chocolate, chopped
+                    &nbsp;
+                    For Frosting:
+                    1 (12 ounce) package white chocolate chips
+                    1 cup unsalted butter, at room temperature
+                    2 (8 ounce) packages cream cheese, softened
+                    2 teaspoons vanilla extract
+                    food coloring, if desired (optional)
+</ingredient>
+<directions>
+                    Preheat an oven to 350 degrees F (175 degrees C). Line muffin tins with 24 cupcake liners.
+                    Combine the cake mix, oil, egg whites, and water in a mixing bowl. Beat with an electric mixer on low speed for 30 seconds, then increase the speed to medium and beat for 2 minutes, scraping down the sides of the bowl. Stir in the chopped bittersweet chocolate and scoop the batter into the cupcake liners, filling them two-thirds full.
+                    Bake in the preheated oven until golden and the tops spring back when lightly pressed, 15 to 20 minutes. A toothpick inserted into the center of a cupcake should come out clean. Remove the cupcakes from the pans and cool completely on wire racks.
+                    Beat 1 cup cold whipping cream on medium-high speed until the cream has thickened, about 1 minute. Add confectioners' sugar and beat until stiff peaks form. Stir in the frozen raspberries, toffee bits, and chopped toasted hazelnuts.
+                    Remove the centers of the cupcakes using an apple corer or paring knife, cutting out the middles in a funnel shape by holding the knife at a 45-degree angle. Spoon or pipe the filling into the cupcakes. Refrigerate the cupcakes while you prepare the ganache.
+                    Place the semisweet chocolate pieces in a heat-safe bowl. Bring 1/2 cup heavy cream to a boil. Pour the hot cream over the chocolate; cover the bowl and set aside for 5 minutes. Whisk the chocolate and cream until well combined; allow the ganache to cool until it reaches a spreadable consistency, about 1 hour. Spread a spoonful of ganache evenly over each cupcake. Refrigerate the cupcakes while you prepare the frosting.
+                    Melt the white chocolate chips in a microwave-safe bowl by heating for 1 minute, stirring after 30 seconds. Allow the white chocolate to cool until almost room temperature but still fluid. Cream the butter and cream cheese together. Blend in the melted white chocolate, vanilla extract, and food coloring (if using). Spread the frosting on the cupcakes. Serve immediately, or refrigerate until serving.
+</directions>
+</recipe>
+<recipe>
+<title>1-pumpkin-spice-cookies</title>
+<idx>3</idx>
+<PrepTime>
+	15 Min
+</PrepTime>
+<CookTime>
+	12 Min
+</CookTime>
+<ReadyIn>
+	28 Min
+</ReadyIn>
+<ingredient>
+                    2 1/2 cups all-purpose flour
+                    1 cup rolled oats
+                    4 teaspoons baking powder
+                    1 1/2 teaspoons ground cinnamon
+                    1/2 teaspoon ground nutmeg
+                    1 teaspoon pumpkin pie spice
+                    1/2 teaspoon ground ginger
+                    1/4 teaspoon salt
+                    2 tablespoons butter
+                    1 1/3 cups light brown sugar
+                    2 eggs
+                    1 teaspoon vanilla extract
+                    1 (15 ounce) can pumpkin
+                    1/2 cup apple butter
+                    1 cup chopped walnuts
+</ingredient>
+<directions>
+                    Preheat an oven to 375 degrees F (190 degrees C). Grease 2 baking sheets.
+                    Stir the flour, oats, baking powder, cinnamon, nutmeg, pumpkin pie spice, ginger, and salt in a bowl.
+                    Beat the butter and brown sugar with an electric mixer in a large bowl until smooth. Add 1 egg and allow it to blend into the mixture before adding the other along with the vanilla. Add the pumpkin and apple butter; continue beating. Mix in the flour mixture until just incorporated. Fold in the walnuts, mixing just enough to evenly combine. Drop spoonfuls of the dough 2 inches apart onto the prepared baking sheets.
+                    Bake in the preheated oven until the edges are golden, about 12 minutes. Allow the cookies to cool on the baking sheet for 1 minute before removing to a wire rack to cool completely.
+</directions>
+</recipe>
+<recipe>
+<title>10-minute-zesty-salsa</title>
+<idx>4</idx>
+<PrepTime>
+	10 Min
+</PrepTime>
+<ReadyIn>
+	10 Min
+</ReadyIn>
+<ingredient>
+                    1 (10 ounce) can diced tomatoes and green chilies, undrained
+                    1 tablespoon seeded and chopped jalapeno pepper
+                    1 tablespoon chopped red onion
+                    1 tablespoon minced fresh cilantro
+                    1 garlic clove, minced
+                    1 tablespoon olive oil
+                    Dash salt
+                    Dash pepper
+                    Tortilla chips
+</ingredient>
+<directions>
+                    In a small bowl, combine the tomatoes, jalapeno, onion, cilantro, garlic, oil, salt and pepper. Refrigerate until serving. Serve with tortilla chips.
+</directions>
+</recipe>
+<recipe>
+<title>10-pound-cheesecake</title>
+<idx>5</idx>
+<PrepTime>
+	25 Min
+</PrepTime>
+<ReadyIn>
+	2 Hrs 25 Min
+</ReadyIn>
+<ingredient>
+                    2 1/2 cups graham cracker crumbs
+                    1/2 cup white sugar
+                    1/2 cup melted butter
+                    3 (8 ounce) packages cream cheese, softened
+                    2 (14 ounce) cans sweetened condensed milk
+                    1/2 cup lemon juice
+                    1 teaspoon vanilla extract
+                    1 (12 ounce) container frozen whipped topping, thawed
+                    2 (21 ounce) cans cherry pie filling
+</ingredient>
+<directions>
+                    Stir together graham cracker crumbs, sugar, and melted butter. Press into a 9x13 inch baking dish.
+                    Use an electric mixer to beat the cream cheese until smooth. Beat in the sweetened condensed milk, lemon juice, and vanilla extract until well blended and smooth. Fold in whipped topping. Pour filling into crust and smooth the top.
+                    Top with cherry pie filling. Refrigerate until firm, 2 to 3 hours.
+</directions>
+</recipe>
+<recipe>
+<title>100-percent-whole-wheat-bread</title>
+<idx>6</idx>
+<PrepTime>
+	1 Hr 
+</PrepTime>
+<CookTime>
+	30 Min
+</CookTime>
+<ReadyIn>
+	3 Hrs 30 Min
+</ReadyIn>
+<ingredient>
+                    1 3/4 cups warm water (110 degrees F (43 degrees C))
+                    1/4 cup honey
+                    2 teaspoons instant yeast
+                    6 cups stone ground whole wheat flour
+                    6 tablespoons vital wheat gluten
+                    1 tablespoon flax seeds
+                    1 tablespoon flax seed meal
+                    1 tablespoon rolled oats
+                    1 tablespoon sesame seeds
+                    1 tablespoon quinoa
+                    1 tablespoon sunflower seeds
+                    1 teaspoon salt
+                    2 tablespoons coconut oil, melted
+</ingredient>
+<directions>
+                    Pour warm water and honey into a large bowl, and stir to dissolve the honey. Sprinkle the yeast over the top of the liquid, and let stand until the yeast bubbles and forms a creamy layer, about 10 minutes.
+                    In a bowl, stir together the whole wheat flour, gluten, flax seeds, flax meal, rolled oats, sesame seeds, quinoa, sunflower seeds, and salt until the seeds are dispersed evenly. Pour the flour mixture into the yeast mixture, add the coconut oil, and mix everything together. Scoop the dough out onto a well-floured surface, and knead until smooth and springy, about 15 minutes. Allow dough to rest for 15 minutes, then knead for another 10 minutes.
+                    Form the dough into a ball, place in an oiled bowl, and turn the dough over several times to coat with oil. Cover and let rise in a warm place until doubled, 30 to 45 minutes.
+                    Grease 2 9x5-inch loaf pans. Punch down the dough, and cut into 2 pieces. Form each piece into a loaf, place into the loaf pans, seam sides down, and cover the pans with plastic wrap. Let rise until doubled, about 30 minutes.
+                    Preheat oven to 350 degrees F (175 degrees C). Bake the loaves in the preheated oven until the loaves are golden brown and sound hollow when tapped, 30 to 35 minutes. Let cool in pans about 10 minutes before turning out to finish cooling on racks.
+</directions>
+</recipe>
+<recipe>
+<title>100-fruit-cake</title>
+<idx>7</idx>
+<PrepTime>
+	30 Min
+</PrepTime>
+<ReadyIn>
+	30 Min
+</ReadyIn>
+<ingredient>
+                    1 seedless watermelon
+                    2 cups strawberries, hulled and sliced
+                    1 cantaloupe - seeded, peeled, and sliced (optional)
+                    1 fresh pineapple - peeled, cored, and sliced (optional)
+</ingredient>
+<directions>
+                    To create the base tier of the cake, cut 3 slices of watermelon, 1 to 2 inches thick, crossways through the center of the melon. Trim the rind from the watermelon slices, and place the largest slice onto a cake plate. Alternate layering sliced strawberries, slices of cantaloupe, and slices of fresh pineapple; follow with the second-largest watermelon slice. Repeat once more to make a layered fruit stack that looks like a cake.
+                    Thinly slice a few pieces of remaining melon and pineapple. With cookie cutters or a sharp knife, cut remaining fruit slices into decorative shapes. Decorate the cake tiers with the cut fruit shapes and remaining berries.
+                    Refrigerate until serving time. To serve, slice the cake with a sharp knife, one wedge at a time, and set the wedge onto a plate.
+</directions>
+</recipe>
+<recipe>
+<title>123-green-tea-ice-cream</title>
+<idx>8</idx>
+<PrepTime>
+	5 Min
+</PrepTime>
+<ReadyIn>
+	5 Min
+</ReadyIn>
+<ingredient>
+                    1 cup vanilla ice cream
+                    1 teaspoon green tea powder (matcha)
+</ingredient>
+<directions>
+                    Lightly pound the ice cream on a wooden cutting board; transfer to bowl and add matcha; mix well. Refreeze or eat immediately.
+</directions>
+</recipe>
+<recipe>
+<title>1-2-3-marinara</title>
+<idx>9</idx>
+<PrepTime>
+	5 Min
+</PrepTime>
+<CookTime>
+	10 Min
+</CookTime>
+<ReadyIn>
+	20 Min
+</ReadyIn>
+<ingredient>
+                    2 (6 ounce) cans Hunt's&#174; Tomato Paste
+                    3 cups hot water
+                    2 (14.5 ounce) cans Hunt&#8217;s&#174; Diced Tomatoes with Basil, Garlic and Oregano, undrained
+</ingredient>
+<directions>
+                    Combine tomato paste and water in medium saucepan; stir in diced tomatoes with their liquid.
+                    Bring to a boil over high heat. Reduce heat to low; simmer 10 minutes, stirring occasionally.
+                    Serve over hot cooked pasta.
+</directions>
+</recipe>
+<recipe>
+<title>123-mocha-2-go</title>
+<idx>10</idx>
+<PrepTime>
+	5 Min
+</PrepTime>
+<ReadyIn>
+	5 Min
+</ReadyIn>
+<ingredient>
+                    1 cup instant coffee granules
+                    2 cups instant milk chocolate drink mix
+                    3 cups instant dry milk powder
+                    4 1/2 tablespoons ground cinnamon (optional)
+</ingredient>
+<directions>
+                    In a bowl, mix the coffee granules, chocolate milk drink mix, dry milk powder, and cinnamon until thoroughly blended. Store in sealed container.
+                    To use, mix 2 1/2 tablespoons of the mixture with 8 ounces of boiling water in a mug; stir to dissolve.
+</directions>
+</recipe>
+<recipe>
+<title>12-hour-salad</title>
+<idx>11</idx>
+<PrepTime>
+	20 Min
+</PrepTime>
+<ReadyIn>
+	20 Min
+</ReadyIn>
+<ingredient>
+                    8 cups torn salad greens
+                    1 1/2 cups chopped celery
+                    2 medium green peppers, chopped
+                    1 medium red onion, chopped
+                    1 (10 ounce) package frozen peas, thawed
+                    1 cup mayonnaise
+                    1 cup sour cream
+                    3 tablespoons sugar
+                    1 cup shredded Cheddar cheese
+                    1/2 pound sliced bacon, cooked and crumbled
+</ingredient>
+<directions>
+                    Place salad greens in a 3-qt. bowl or 13-in. x 9-in. x 2-in. dish. Top with layers of celery, green peppers, onion and peas; do not toss.
+                    In a bowl, combine the mayonnaise, sour cream and sugar; spread over vegetables. Sprinkle with cheese and bacon. Cover and refrigerate overnight.
+</directions>
+</recipe>
+<recipe>
+<title>14-karat-cake</title>
+<idx>12</idx>
+<PrepTime>
+	15 Min
+</PrepTime>
+<CookTime>
+	30 Min
+</CookTime>
+<ReadyIn>
+	45 Min
+</ReadyIn>
+<ingredient>
+                    1 1/3 cups sugar
+                    2 eggs
+                    2 egg whites
+                    1/2 cup unsweetened applesauce
+                    1/3 cup canola oil
+                    1 cup all-purpose flour
+                    1 cup whole wheat flour
+                    1 1/2 teaspoons baking soda
+                    1 teaspoon salt
+                    1 teaspoon ground cinnamon
+                    1/2 teaspoon ground allspice
+                    1/4 teaspoon ground cloves
+                    3 cups shredded carrots
+                    1/2 cup golden raisins
+                    6 ounces reduced-fat cream cheese
+                    1 tablespoon butter or stick margarine, softened
+                    1/2 teaspoon vanilla extract
+                    3 cups confectioners' sugar
+                    1/4 cup chopped walnuts
+                    3 tablespoons flaked coconut, toasted
+</ingredient>
+<directions>
+                    In a mixing bowl, combine the first five ingredients until smooth. Combine the flours, baking soda, salt and spices; add to the egg mixture and mix well. Stir in carrots and raisins. Pour into a 13-in. x 9-in. x 2-in. baking pan coated with nonstick cooking spray. Bake at 350 degrees F for 30-35 minutes or until a toothpick inserted near the center comes out clean. Cool on a wire rack.
+                    For frosting, in a mixing bowl, beat the cream cheese, butter and vanilla until smooth. Beat in sugar. Frost the cake. Sprinkle with walnuts and coconut. Refrigerate.
+</directions>
+</recipe>
+<recipe>
+<title>15-minute-dinner-nachos-supreme</title>
+<idx>13</idx>
+<CookTime>
+	15 Min
+</CookTime>
+<ReadyIn>
+	15 Min
+</ReadyIn>
+<ingredient>
+                    1 pound ground beef
+                    1 (1.12 ounce) package Pace&#174; Taco Seasoning Mix
+                    1 (10.75 ounce) can  Campbell's&#174; Condensed Tomato Soup
+                    1 1/2 cups water
+                    1 1/2 cups uncooked instant white rice
+                    Pace&#174; Thick & Chunky Salsa
+                    Shredded Cheddar cheese
+                    Shredded lettuce
+                    Tortilla chips
+</ingredient>
+<directions>
+                    Cook beef and taco seasoning in skillet until browned. Pour off fat.
+                    Add soup, water and rice. Heat to a boil. Cover and cook over low heat 5 min. or until done.
+                    Top with salsa, cheese and lettuce. Serve with tortilla chips for dipping.
+</directions>
+</recipe>
+<recipe>
+<title>15-minute-herbed-chicken</title>
+<idx>14</idx>
+<CookTime>
+	15 Min
+</CookTime>
+<ReadyIn>
+	15 Min
+</ReadyIn>
+<ingredient>
+                    1 tablespoon vegetable oil
+                    4 skinless, boneless chicken breasts
+                    1 (10.75 ounce) can  Campbell's&#174; Condensed Cream of Chicken with Herbs Soup
+                    1/2 cup milk
+                    Broth Simmered Rice (see note)
+</ingredient>
+<directions>
+                    Heat oil in skillet. Add chicken and cook until browned.
+                    Add soup and milk. Heat to a boil. Cover and cook over low heat 5  minutes or until done. Serve with Broth Simmered Rice.
+</directions>
+</recipe>
